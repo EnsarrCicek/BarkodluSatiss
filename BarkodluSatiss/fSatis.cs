@@ -26,5 +26,15 @@ namespace BarkodluSatiss
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button25_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

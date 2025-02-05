@@ -422,7 +422,7 @@
             // 
             // button26
             // 
-            this.button26.BackColor = System.Drawing.Color.Chocolate;
+            this.button26.BackColor = System.Drawing.Color.DarkRed;
             this.button26.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button26.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button26.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
@@ -447,6 +447,7 @@
             this.button25.TabIndex = 22;
             this.button25.Text = "bHizli";
             this.button25.UseVisualStyleBackColor = false;
+            this.button25.Click += new System.EventHandler(this.button25_Click);
             // 
             // button24
             // 
@@ -727,6 +728,7 @@
             this.button5.TabIndex = 2;
             this.button5.Text = "bHizli";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
