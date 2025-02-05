@@ -46,5 +46,10 @@ namespace BarkodluSatiss
         {
 
         }
+
+        private void button45_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -85,6 +85,18 @@
             this.tableLayoutPanel7 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel8 = new System.Windows.Forms.TableLayoutPanel();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.button34 = new System.Windows.Forms.Button();
+            this.button35 = new System.Windows.Forms.Button();
+            this.button36 = new System.Windows.Forms.Button();
+            this.button37 = new System.Windows.Forms.Button();
+            this.button38 = new System.Windows.Forms.Button();
+            this.button39 = new System.Windows.Forms.Button();
+            this.button40 = new System.Windows.Forms.Button();
+            this.button41 = new System.Windows.Forms.Button();
+            this.button42 = new System.Windows.Forms.Button();
+            this.button43 = new System.Windows.Forms.Button();
+            this.button44 = new System.Windows.Forms.Button();
+            this.button45 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -103,6 +115,7 @@
             this.tableLayoutPanel5.SuspendLayout();
             this.tableLayoutPanel6.SuspendLayout();
             this.tableLayoutPanel7.SuspendLayout();
+            this.tableLayoutPanel8.SuspendLayout();
             this.SuspendLayout();
             // 
             // splitContainer1
@@ -933,6 +946,18 @@
             this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334F));
             this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334F));
             this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334F));
+            this.tableLayoutPanel8.Controls.Add(this.button34, 0, 0);
+            this.tableLayoutPanel8.Controls.Add(this.button35, 1, 0);
+            this.tableLayoutPanel8.Controls.Add(this.button36, 2, 0);
+            this.tableLayoutPanel8.Controls.Add(this.button37, 0, 1);
+            this.tableLayoutPanel8.Controls.Add(this.button38, 1, 1);
+            this.tableLayoutPanel8.Controls.Add(this.button39, 2, 1);
+            this.tableLayoutPanel8.Controls.Add(this.button40, 0, 2);
+            this.tableLayoutPanel8.Controls.Add(this.button41, 1, 2);
+            this.tableLayoutPanel8.Controls.Add(this.button42, 2, 2);
+            this.tableLayoutPanel8.Controls.Add(this.button43, 0, 3);
+            this.tableLayoutPanel8.Controls.Add(this.button44, 1, 3);
+            this.tableLayoutPanel8.Controls.Add(this.button45, 2, 3);
             this.tableLayoutPanel8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel8.Location = new System.Drawing.Point(1, 46);
             this.tableLayoutPanel8.Margin = new System.Windows.Forms.Padding(1);
@@ -947,11 +972,193 @@
             // 
             // textBox4
             // 
+            this.textBox4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.textBox4.Location = new System.Drawing.Point(3, 3);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(353, 30);
             this.textBox4.TabIndex = 1;
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button34
+            // 
+            this.button34.BackColor = System.Drawing.Color.LightGreen;
+            this.button34.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button34.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button34.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button34.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button34.Location = new System.Drawing.Point(1, 1);
+            this.button34.Margin = new System.Windows.Forms.Padding(1);
+            this.button34.Name = "button34";
+            this.button34.Size = new System.Drawing.Size(117, 51);
+            this.button34.TabIndex = 0;
+            this.button34.Text = "1";
+            this.button34.UseVisualStyleBackColor = false;
+            // 
+            // button35
+            // 
+            this.button35.BackColor = System.Drawing.Color.LightGreen;
+            this.button35.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button35.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button35.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button35.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button35.Location = new System.Drawing.Point(120, 1);
+            this.button35.Margin = new System.Windows.Forms.Padding(1);
+            this.button35.Name = "button35";
+            this.button35.Size = new System.Drawing.Size(117, 51);
+            this.button35.TabIndex = 1;
+            this.button35.Text = "1";
+            this.button35.UseVisualStyleBackColor = false;
+            // 
+            // button36
+            // 
+            this.button36.BackColor = System.Drawing.Color.LightGreen;
+            this.button36.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button36.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button36.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button36.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button36.Location = new System.Drawing.Point(239, 1);
+            this.button36.Margin = new System.Windows.Forms.Padding(1);
+            this.button36.Name = "button36";
+            this.button36.Size = new System.Drawing.Size(117, 51);
+            this.button36.TabIndex = 2;
+            this.button36.Text = "1";
+            this.button36.UseVisualStyleBackColor = false;
+            // 
+            // button37
+            // 
+            this.button37.BackColor = System.Drawing.Color.LightGreen;
+            this.button37.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button37.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button37.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button37.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button37.Location = new System.Drawing.Point(1, 54);
+            this.button37.Margin = new System.Windows.Forms.Padding(1);
+            this.button37.Name = "button37";
+            this.button37.Size = new System.Drawing.Size(117, 51);
+            this.button37.TabIndex = 3;
+            this.button37.Text = "1";
+            this.button37.UseVisualStyleBackColor = false;
+            // 
+            // button38
+            // 
+            this.button38.BackColor = System.Drawing.Color.LightGreen;
+            this.button38.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button38.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button38.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button38.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button38.Location = new System.Drawing.Point(120, 54);
+            this.button38.Margin = new System.Windows.Forms.Padding(1);
+            this.button38.Name = "button38";
+            this.button38.Size = new System.Drawing.Size(117, 51);
+            this.button38.TabIndex = 4;
+            this.button38.Text = "1";
+            this.button38.UseVisualStyleBackColor = false;
+            // 
+            // button39
+            // 
+            this.button39.BackColor = System.Drawing.Color.LightGreen;
+            this.button39.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button39.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button39.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button39.Location = new System.Drawing.Point(239, 54);
+            this.button39.Margin = new System.Windows.Forms.Padding(1);
+            this.button39.Name = "button39";
+            this.button39.Size = new System.Drawing.Size(117, 51);
+            this.button39.TabIndex = 5;
+            this.button39.Text = "1";
+            this.button39.UseVisualStyleBackColor = false;
+            // 
+            // button40
+            // 
+            this.button40.BackColor = System.Drawing.Color.LightGreen;
+            this.button40.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button40.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button40.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button40.Location = new System.Drawing.Point(1, 107);
+            this.button40.Margin = new System.Windows.Forms.Padding(1);
+            this.button40.Name = "button40";
+            this.button40.Size = new System.Drawing.Size(117, 51);
+            this.button40.TabIndex = 6;
+            this.button40.Text = "1";
+            this.button40.UseVisualStyleBackColor = false;
+            // 
+            // button41
+            // 
+            this.button41.BackColor = System.Drawing.Color.LightGreen;
+            this.button41.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button41.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button41.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button41.Location = new System.Drawing.Point(120, 107);
+            this.button41.Margin = new System.Windows.Forms.Padding(1);
+            this.button41.Name = "button41";
+            this.button41.Size = new System.Drawing.Size(117, 51);
+            this.button41.TabIndex = 7;
+            this.button41.Text = "1";
+            this.button41.UseVisualStyleBackColor = false;
+            // 
+            // button42
+            // 
+            this.button42.BackColor = System.Drawing.Color.LightGreen;
+            this.button42.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button42.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button42.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button42.Location = new System.Drawing.Point(239, 107);
+            this.button42.Margin = new System.Windows.Forms.Padding(1);
+            this.button42.Name = "button42";
+            this.button42.Size = new System.Drawing.Size(117, 51);
+            this.button42.TabIndex = 8;
+            this.button42.Text = "1";
+            this.button42.UseVisualStyleBackColor = false;
+            // 
+            // button43
+            // 
+            this.button43.BackColor = System.Drawing.Color.LightGreen;
+            this.button43.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button43.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button43.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button43.Location = new System.Drawing.Point(1, 160);
+            this.button43.Margin = new System.Windows.Forms.Padding(1);
+            this.button43.Name = "button43";
+            this.button43.Size = new System.Drawing.Size(117, 53);
+            this.button43.TabIndex = 9;
+            this.button43.Text = "1";
+            this.button43.UseVisualStyleBackColor = false;
+            // 
+            // button44
+            // 
+            this.button44.BackColor = System.Drawing.Color.LightGreen;
+            this.button44.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button44.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button44.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button44.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.button44.Location = new System.Drawing.Point(120, 160);
+            this.button44.Margin = new System.Windows.Forms.Padding(1);
+            this.button44.Name = "button44";
+            this.button44.Size = new System.Drawing.Size(117, 53);
+            this.button44.TabIndex = 10;
+            this.button44.Text = "1";
+            this.button44.UseVisualStyleBackColor = false;
+            // 
+            // button45
+            // 
+            this.button45.BackColor = System.Drawing.Color.LightGreen;
+            this.button45.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.button45.FlatAppearance.BorderColor = System.Drawing.Color.LightGreen;
+            this.button45.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button45.ForeColor = System.Drawing.SystemColors.InfoText;
+            this.button45.Location = new System.Drawing.Point(239, 160);
+            this.button45.Margin = new System.Windows.Forms.Padding(1);
+            this.button45.Name = "button45";
+            this.button45.Size = new System.Drawing.Size(117, 53);
+            this.button45.TabIndex = 11;
+            this.button45.Text = "1";
+            this.button45.UseVisualStyleBackColor = false;
+            this.button45.Click += new System.EventHandler(this.button45_Click);
             // 
             // fSatis
             // 
@@ -984,6 +1191,7 @@
             this.tableLayoutPanel6.ResumeLayout(false);
             this.tableLayoutPanel7.ResumeLayout(false);
             this.tableLayoutPanel7.PerformLayout();
+            this.tableLayoutPanel8.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -1047,6 +1255,18 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel7;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel8;
         private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Button button34;
+        private System.Windows.Forms.Button button35;
+        private System.Windows.Forms.Button button36;
+        private System.Windows.Forms.Button button37;
+        private System.Windows.Forms.Button button38;
+        private System.Windows.Forms.Button button39;
+        private System.Windows.Forms.Button button40;
+        private System.Windows.Forms.Button button41;
+        private System.Windows.Forms.Button button42;
+        private System.Windows.Forms.Button button43;
+        private System.Windows.Forms.Button button44;
+        private System.Windows.Forms.Button button45;
     }
 }
 
