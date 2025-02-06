@@ -51,5 +51,20 @@ namespace BarkodluSatiss
         {
 
         }
+
+        private void button37_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel9_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
